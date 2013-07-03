@@ -1,4 +1,0 @@
-AwesomeScript
-=============
-
-AwesomeScript project
