@@ -1,5 +1,5 @@
 // AwesomeScriptBeta.cpp : Defines the exported functions for the DLL application.
-//
+// © 2013 JINX OS
 
 #include "stdafx.h"
 #include "AwesomeScriptBeta.h"
