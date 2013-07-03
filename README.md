@@ -1,0 +1,4 @@
+AwesomeScript
+=============
+
+AwesomeScript project
